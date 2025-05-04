@@ -6,8 +6,7 @@ Cesar Andres Ramirez Diaz
 
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: L21212173@tectijuana.edu.mx
 
-## Objetivos general
-Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente con enfisema (caso) presente la misma presión alveolar que un individuo sano (control)
+
 
 ## Actividades
 1. Calcular analÌticamente la funcion de transferencia del sistema cardiovascular.
